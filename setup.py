@@ -15,6 +15,7 @@ setup(
     ],
     install_requires = [
         'pbcore >= 0.2',
+        'GenomicConsensus',
         'numpy >= 1.6.0',
         'scipy >= 0.9.0',
         'h5py >= 1.3.0'
