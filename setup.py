@@ -10,8 +10,8 @@ setup(
     package_dir = {'':'.'},
     zip_safe = False,
     scripts=[
-        'bin/correlatedVariants',
-        'bin/rareCaller'
+        'bin/correlatedVariants.py',
+        'bin/rareCaller.py'
     ],
     install_requires = [
         'pbcore >= 0.2',
